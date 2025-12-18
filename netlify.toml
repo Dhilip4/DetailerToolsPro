@@ -1,5 +1,5 @@
 [build]
-  publish = "index.html"
+  publish = "."
   
 [build.environment]
   NODE_VERSION = "18"
